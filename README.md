@@ -222,25 +222,6 @@ cd frontend && npm install
 # Luego: Frontend React
 # Finalmente: BPMN y documentación
 ```
-
----
-
-## 📊 Mapeo de Requisitos vs Documentos
-
-| Requisito | ESPECIFICACIONES | ARQUITECTURA | PLAN_EJECUCION | INICIO_RAPIDO |
-|-----------|------------------|--------------|-----------------|---------------|
-| Clases abstractas | ✅ Sección 1.2, 2.2 | ✅ Código completo | ✅ Paso 6, 13 | ✅ Paso 5-6 |
-| API Endpoints | ✅ Tablas endpoints | ✅ Ejemplos JSON | ✅ Paso 11, 19 | ✅ Paso 5 |
-| ORM (Sequelize) | ✅ Sección 1.3 | ✅ Diagrama | ✅ Paso 7, 14 | ✅ Paso 5 |
-| Repository Pattern | ✅ Sección 6.1 | ✅ Ejemplos código | ✅ Paso 8, 16 | ✅ Paso 5 |
-| Adapter Pattern | ✅ Sección 6.2 | ✅ Implementación | ✅ Paso 15 | - |
-| Strategy Pattern | ✅ Sección 6.3 | ✅ Ejemplos | ✅ Paso 9, 17 | - |
-| React Frontend | ✅ Sección 3 | ✅ Componentes | ✅ Paso 21-27 | ✅ Paso 3 |
-| Docker Compose | ✅ Sección 5 | ✅ YAML ejemplo | ✅ Paso 35 | ✅ Paso 4 |
-| BPMN Modelado | ✅ Sección 4 | - | ✅ Paso 28-31 | - |
-| SOLID Principles | ✅ Sección 7 | ✅ Explicado | ✅ Paso 42 | - |
-| Testing | ✅ Checklist | - | ✅ Paso 12, 20, 46-48 | - |
-
 ---
 
 ## 🔑 Conceptos Clave
